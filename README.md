@@ -1,4 +1,5 @@
-![Build Status](https://travis-ci.org/mattferderer/triangles.svg?branch=master)
+[![Build Status](https://travis-ci.org/mattferderer/triangles.svg?branch=master)](https://travis-ci.org/mattferderer/triangles)
+
 
 # Instructions
 
